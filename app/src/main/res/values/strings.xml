@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Image Gallery</string>
+    <string name="consumer_key">vByTfxibZwMU5weGRZepNX2h6F3lx1AY8IpaUHbz</string>
+    <string name="consumer_secret">51bVoJpqWeKGpMZA19xyIWWqKAJGC7oymTWP2eve</string>
+    <string name="logout_label">Logout</string>
+    <string name="text_grid_view">Grid View</string>
+    <string name="text_list_view">List View</string>
+    <string name="internet_notavailable">Internet is not available! Please check internet connection</string>
+</resources>
